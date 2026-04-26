@@ -100,5 +100,5 @@ I’m a final-year Computer Science student focused on building **production-rea
 ## 📫 Contact
 
 * 📧 [reach.yashshrivastava@gmail.com](mailto:reach.yashshrivastava@gmail.com)
-* 💼 (Add LinkedIn here — seriously, don’t skip this)
+* 💼 www.linkedin.com/in/yash-shrivastava-89a311322
 
