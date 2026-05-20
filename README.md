@@ -36,7 +36,7 @@ I’m a final-year Computer Science student focused on building **production-rea
 ### 🌐 Frontend
 
 * React.js
-* Next.js
+* React Native
 * Tailwind CSS
 
 ### 🔧 Backend
